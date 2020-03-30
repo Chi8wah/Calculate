@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585297853 source:d:\codes\testcal\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1585458575 source:d:\project\testcal\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
